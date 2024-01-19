@@ -1,0 +1,11 @@
+.bg-color-light {
+  background-color: rgb(238, 238, 238);
+}
+
+.content-width {
+  max-width: 800px;
+}
+
+.custom-py {
+  padding: 5% 1%;
+}

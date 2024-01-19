@@ -1,0 +1,14 @@
+.story-container {
+  height: 100vh;
+}
+
+.story-content p {
+  max-width: 600px;
+  -webkit-line-clamp: 7;
+}
+
+@media only screen and (max-width: 768px) {
+  .img-visibility {
+    display: none;
+  }
+}

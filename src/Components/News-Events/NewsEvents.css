@@ -1,0 +1,15 @@
+.contentWidth {
+  max-width: 800px;
+}
+.card-width {
+  max-width: 300px;
+}
+.text-overflow {
+  -webkit-line-clamp: 6;
+}
+.imgHeight {
+  height: 150px;
+}
+.bg-color-light {
+  background-color: rgb(238, 238, 238);
+}
